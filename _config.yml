@@ -9,17 +9,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : 
+title                    : "훅그립 쓰는 남자." 
 # title                    : "Dev.Hundred"
 title_separator          : "-"
-name                     : 
+name                     : "Yi Sanghoon"
 # name                     : "Junho Baik"
-description              : 
+description              : "나의 크로스핏 이야기, 생각, 경험"
 # description              : "A personal web for Junho Baik"
 url                      : 
 # url                      : "https://junhobaik.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : "yisanghoon/yisanghoon.github.io"
 # repository               : "junhobaik/junhobaik.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Yi Sanghoon"
   # name             : "Junho Baik"
   avatar           : 
   # avatar           : "/assets/images/profile.png"
-  bio              : 
+  bio              : "Crossfiter"
   # bio              : "Junior Front-End Web Developer"
   location         : "Korea"
   email            : 
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "yisanghoon"
   # github           : "junhobaik"
   gitlab           :
   google_plus      :
